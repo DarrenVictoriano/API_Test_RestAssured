@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1551c77b-5fc9-4df7-a93b-74e52399b519" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="RestAssuredTest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZYRcvS4ccxON9kUpjWN0L5JUFN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="TestNG.getCurrentTime.getCurrentTimeVersion1">
+    <configuration name="Demo5_GET_ResponseBodyContains.getGoogleMapTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.sample" />
+      <option name="MAIN_CLASS_NAME" value="test.sample.Demo5_GET_ResponseBodyContains" />
+      <option name="METHOD_NAME" value="getGoogleMapTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo5_GET_ResponseBodyContains.getWeatherDetails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.sample" />
+      <option name="MAIN_CLASS_NAME" value="test.sample.Demo5_GET_ResponseBodyContains" />
+      <option name="METHOD_NAME" value="getWeatherDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo6_GET_JsonPath.getWeatherDetails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.sample" />
+      <option name="MAIN_CLASS_NAME" value="test.sample.Demo6_GET_JsonPath" />
+      <option name="METHOD_NAME" value="getWeatherDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo7_GET_Authorization.AuthorizationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.sample" />
+      <option name="MAIN_CLASS_NAME" value="test.sample.Demo7_GET_Authorization" />
+      <option name="METHOD_NAME" value="AuthorizationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getCurrentTime.getCurrentTimeVersion1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.sample" />
+      <option name="MAIN_CLASS_NAME" value="test.sample.getCurrentTime" />
+      <option name="METHOD_NAME" value="getCurrentTimeVersion1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.getCurrentTime.getCurrentTimeVersion1" />
+        <item itemvalue="TestNG.Demo7_GET_Authorization.AuthorizationTest" />
+        <item itemvalue="TestNG.Demo6_GET_JsonPath.getWeatherDetails" />
+        <item itemvalue="TestNG.Demo5_GET_ResponseBodyContains.getWeatherDetails" />
+        <item itemvalue="TestNG.Demo5_GET_ResponseBodyContains.getGoogleMapTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1551c77b-5fc9-4df7-a93b-74e52399b519" name="Default Changelist" comment="" />
+      <created>1585014124057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585014124057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="99" key="#Demo1.getWeatherDetails" timestamp="1585016034450">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="495" y="99" key="#Demo1.getWeatherDetails/1600.23.1600.877/0.23.1600.877@0.23.1600.877" timestamp="1585016034450" />
+    <state x="400" y="127" key="#Project_Structure" timestamp="1585014572611">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="400" y="127" key="#Project_Structure/1600.23.1600.877/0.23.1600.877@0.23.1600.877" timestamp="1585014572611" />
+    <state x="100" y="123" width="1400" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585091434539">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="100" y="123" width="1400" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1600.23.1600.877/0.23.1600.877@0.23.1600.877" timestamp="1585091434539" />
+    <state width="1558" height="230" key="GridCell.Tab.0.bottom" timestamp="1585175266562">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1558" height="230" key="GridCell.Tab.0.bottom/1600.23.1600.877/0.23.1600.877@0.23.1600.877" timestamp="1585175266562" />
+    <state width="1558" height="230" key="GridCell.Tab.0.center" timestamp="1585175266561">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1558" height="230" key="GridCell.Tab.0.center/1600.23.1600.877/0.23.1600.877@0.23.1600.877" timestamp="1585175266561" />
+    <state width="1558" height="230" key="GridCell.Tab.0.left" timestamp="1585175266561">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1558" height="230" key="GridCell.Tab.0.left/1600.23.1600.877/0.23.1600.877@0.23.1600.877" timestamp="1585175266561" />
+    <state width="1558" height="230" key="GridCell.Tab.0.right" timestamp="1585175266561">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1558" height="230" key="GridCell.Tab.0.right/1600.23.1600.877/0.23.1600.877@0.23.1600.877" timestamp="1585175266561" />
+    <state x="241" y="34" key="SettingsEditor" timestamp="1585086800955">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="241" y="34" key="SettingsEditor/1600.23.1600.877/0.23.1600.877@0.23.1600.877" timestamp="1585086800955" />
+  </component>
+</project>
